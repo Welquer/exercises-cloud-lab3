@@ -1,12 +1,12 @@
-package com.alunosclient.alunosclient;
+package com.disciplinasclient.disciplinasclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AlunosclientApplication {
+public class DisciplinasclientApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AlunosclientApplication.class, args);
+		SpringApplication.run(DisciplinasclientApplication.class, args);
 	}
 }
