@@ -9,12 +9,14 @@
         <module name="alunosclient" />
         <module name="disciplinasclient" />
         <module name="eurekaserver" />
+        <module name="server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="alunosclient" target="1.8" />
       <module name="disciplinasclient" target="1.8" />
       <module name="eurekaserver" target="1.8" />
+      <module name="server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
